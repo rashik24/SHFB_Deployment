@@ -241,7 +241,7 @@ BETA_VALUES       = [0.1]
 WEEKS             = [1, 2, 3, 4]
 DAYS              = ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"]
 HOURS             = range(0, 24)
-OUTPUT_FILE       = "/Users/rsiddiq2/Downloads/SHFB_Access/precomputed_access_scores_SHFB.parquet"
+OUTPUT_FILE       = "precomputed_access_scores_SHFB.parquet"
 
 
 # =========================================================================
