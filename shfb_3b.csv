@@ -1,0 +1,4707 @@
+,Input,Model_Output,Name,Hours of Operation
+0,M - F: 8:30a-4:30p,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""08:30 am"",
+        ""Closing_Hour"": ""04:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""08:30 am"",
+        ""Closing_Hour"": ""04:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""08:30 am"",
+        ""Closing_Hour"": ""04:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""08:30 am"",
+        ""Closing_Hour"": ""04:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""08:30 am"",
+        ""Closing_Hour"": ""04:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Alamance County Community Services,M - F: 8:30a-4:30p
+1,Tu & Th: 1p - 3p (Appt. Only),"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""01:00 pm"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""1""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""01:00 pm"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""2""
+        ]
+    }
+]",Piedmont Rescue Mission,Tu & Th: 1p - 3p (Appt. Only)
+2,M - F: 11a - 11:30a (Produce); Sa: 9a - 1p (2nd Saturday of each month),"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""11:30 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""11:30 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""11:30 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""11:30 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""11:30 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""2""
+        ]
+    }
+]",Melfield United Church of Christ,M - F: 11a - 11:30a (Produce); Sa: 9a - 1p (2nd Saturday of each month)
+3,W: 10a - 12p,[],Harvest Baptist Church,W: 10a - 12p
+4,Sa: 9a - 11a (3rd Saturday of each month),"[
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:00 am"",
+        ""Week"": [
+            ""3""
+        ]
+    }
+]",Burnett's Chapel Christian Church,Sa: 9a - 11a (3rd Saturday of each month)
+5,Tu: 6p - 7p; Sa: 11a - 1p,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""06:00 pm"",
+        ""Closing_Hour"": ""07:00 pm"",
+        ""Week"": [
+            ""1""
+        ]
+    },
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1""
+        ]
+    }
+]",Breakthrough Community Church,Tu: 6p - 7p; Sa: 11a - 1p
+6,F: 10a - 12p (3rd Friday of each month),"[
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""3""
+        ]
+    }
+]",Trinity Worship Center,F: 10a - 12p (3rd Friday of each month)
+7,M: 10a - 12p & 7p - 9p; F: 10a - 2p,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""07:00 pm"",
+        ""Closing_Hour"": ""09:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""02:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",DreamAlign Ministries,M: 10a - 12p & 7p - 9p; F: 10a - 2p
+8,Tu: 5:30p - 8p; Th: 5:30p - 8p,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""17:30 pm"",
+        ""Closing_Hour"": ""20:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""17:30 pm"",
+        ""Closing_Hour"": ""20:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Fresh Manna Food Ministries,Tu: 5:30p - 8p; Th: 5:30p - 8p
+9,Screening on 3rd Thursday of each month; Pantry on 1st Saturday after 3rd Thursday,"[
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""3""
+        ]
+    },
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""08:00 am"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1""
+        ]
+    }
+]",Blessed Sacrament - Little Portion Food Pantry,Screening on 3rd Thursday of each month; Pantry on 1st Saturday after 3rd Thursday
+10,Tu & Sa: 9a - 12p,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",S.A.F.E - Southern Alamance Family Empowerment,Tu & Sa: 9a - 12p
+11,1st Friday of month 12p - 3p,"[
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""12 p.m."",
+        ""Closing_Hour"": ""3 p.m."",
+        ""Week"": [
+            ""1""
+        ]
+    }
+]",Elon First Baptist Church,1st Friday of month 12p - 3p
+12,Tu: 10a - 1p,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Amos of Alamance,Tu: 10a - 1p
+13,2nd Sa of month 9a-12p,"[
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""2""
+        ]
+    }
+]",We Care / Bridging the Gap CDC,2nd Sa of month 9a-12p
+14,M:10a-1p,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Stony Point Christian Ministries,M:10a-1p
+15,M - F: 9a - 1p,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Christian Crisis Center,M - F: 9a - 1p
+16,Tu & Th: 4p - 6p,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""04:00 pm"",
+        ""Closing_Hour"": ""06:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""04:00 pm"",
+        ""Closing_Hour"": ""06:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Hiddenite Community Helpers,Tu & Th: 4p - 6p
+17,T - Th: 10:00a - 2:00p; 4p-6p (1st Thursday),"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""02:00 pm"",
+        ""Week"": [
+            ""1""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""04:00 pm"",
+        ""Closing_Hour"": ""06:00 pm"",
+        ""Week"": [
+            ""1""
+        ]
+    }
+]",Solid Rock Food Closet,T - Th: 10:00a - 2:00p; 4p-6p (1st Thursday)
+18,M - F: 9:30a - 3p,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""09:30 am"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""09:30 am"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""09:30 am"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""09:30 am"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""09:30 am"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Ashe Really Cares,M - F: 9:30a - 3p
+19,"M, Tu, Th & F: 10a - 2p","[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""unknown"",
+        ""Closing_Hour"": ""unknown"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""02:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""02:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""02:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Ashe Food Pantry,"M, Tu, Th & F: 10a - 2p"
+20,Tu - Th: 9a - 2p,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""02:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""02:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""02:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2""
+        ]
+    }
+]",Ashe Outreach Ministries,Tu - Th: 9a - 2p
+21,Tu: 9a - 2p,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""02:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Jefferson United Methodist Church,Tu: 9a - 2p
+22,M - Sat. 10a - 5p,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""05:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""05:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""05:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""05:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""05:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""05:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",The Salvation Army - Lenoir,M - Sat. 10a - 5p
+23,Tu & Th: 9a - 5p; W: 9a - 2p,"[
+    {
+        ""Day"": ""tu"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""05:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2""
+        ]
+    },
+    {
+        ""Day"": ""th"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""05:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""02:00 pm"",
+        ""Week"": []
+    }
+]",South Caldwell Christian Ministry,Tu & Th: 9a - 5p; W: 9a - 2p
+24,"Th: 9a - 11pa(2nd and 4th Thursday of Jan., Mar., May, July, Sept., Nov. and Dec.); Sa: 9a - 12p (3rd Saturday of Jan., Mar., May, July, Sept., Nov. and Dec.)","[
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:00 am"",
+        ""Week"": [
+            ""2"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""3""
+        ]
+    }
+]",First Baptist Church Whitnel,"Th: 9a - 11pa(2nd and 4th Thursday of Jan., Mar., May, July, Sept., Nov. and Dec.); Sa: 9a - 12p (3rd Saturday of Jan., Mar., May, July, Sept., Nov. and Dec.)"
+25,Sa: 9a - 12p (3rd Saturday of each month),"[
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""3""
+        ]
+    }
+]",Mountain View Baptist Food Pantry,Sa: 9a - 12p (3rd Saturday of each month)
+26,Sa: 9a - 12p (3rd Saturday of each month),"[
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""3""
+        ]
+    }
+]",Pilgrim Baptist Church - Outreach Center,Sa: 9a - 12p (3rd Saturday of each month)
+27,Th: 9a - 12p (2nd and 4th Thursday of each month); Sa: 9a - 12p (3rd Saturday of each month),"[
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""2"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""3""
+        ]
+    }
+]",Pay It Forward Food Pantry,Th: 9a - 12p (2nd and 4th Thursday of each month); Sa: 9a - 12p (3rd Saturday of each month)
+28,Tu: 5p - 7p (2nd and 4th Tuesday of each month),"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""05:00 pm"",
+        ""Closing_Hour"": ""07:00 pm"",
+        ""Week"": [
+            ""2"",
+            ""4""
+        ]
+    }
+]",Mtn Grove--Bags of Blessings,Tu: 5p - 7p (2nd and 4th Tuesday of each month)
+29,Tu & Th: 9:30a - 4:45p,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""09:30 am"",
+        ""Closing_Hour"": ""04:45 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""09:30 am"",
+        ""Closing_Hour"": ""04:45 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]","Caswell County Parish, Inc",Tu & Th: 9:30a - 4:45p
+30,M: 4p-6p (2nd Monday of each month),"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""04:00 pm"",
+        ""Closing_Hour"": ""06:00 pm"",
+        ""Week"": [
+            ""2""
+        ]
+    }
+]",Shady Grove United Methodist Church,M: 4p-6p (2nd Monday of each month)
+31,Th: 6p - 7p (3rd Thursday of each month),"[
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""06:00 pm"",
+        ""Closing_Hour"": ""07:00 pm"",
+        ""Week"": [
+            ""3""
+        ]
+    }
+]",Locust Hill UMC,Th: 6p - 7p (3rd Thursday of each month)
+32,Th: 11a - 1p; Th: 2p - 4p (2nd Thursday of each month),"[
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""2""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""02:00 pm"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""2""
+        ]
+    }
+]",County Outreach Ministry,Th: 11a - 1p; Th: 2p - 4p (2nd Thursday of each month)
+33,Sa.: 9:30a - 11:30a (3rd Saturday of each month),"[
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""09:30 am"",
+        ""Closing_Hour"": ""11:30 am"",
+        ""Week"": [
+            ""3""
+        ]
+    }
+]",First Assembly of God,Sa.: 9:30a - 11:30a (3rd Saturday of each month)
+34,M - F: 8a - 4p,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""08:00 am"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""08:00 am"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""08:00 am"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""08:00 am"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""08:00 am"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",The Salvation Army-Davidson,M - F: 8a - 4p
+35,Tu: 3p - 5:30p; F: 9-10a,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""03:00 pm"",
+        ""Closing_Hour"": ""05:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""10:00 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",North Lexington Baptist Church,Tu: 3p - 5:30p; F: 9-10a
+36,"M, Tu & Th: 9a - 4p; F: 9a - 12p","[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""9a"",
+        ""Closing_Hour"": ""4p"",
+        ""Week"": [
+            ""1234""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""9a"",
+        ""Closing_Hour"": ""4p"",
+        ""Week"": [
+            ""1234""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""9a"",
+        ""Closing_Hour"": ""4p"",
+        ""Week"": [
+            ""1234""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""9a"",
+        ""Closing_Hour"": ""12p"",
+        ""Week"": [
+            ""1234""
+        ]
+    }
+]",Thomasville Community Ministry,"M, Tu & Th: 9a - 4p; F: 9a - 12p"
+37,Th:9a - 12p; Th: 2p - 4p,"[
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""02:00 pm"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Davidson Community Action,Th:9a - 12p; Th: 2p - 4p
+38,M - W: 8:30a - 12p,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""08:30 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""08:30 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""08:30 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",South Davidson Family Resource Center,M - W: 8:30a - 12p
+39,M: 6:30p - 7:30p (1st and 3rd Monday of each month),[],Abbotts Creek - Labor of Love,M: 6:30p - 7:30p (1st and 3rd Monday of each month)
+40,M - Th: 11a - 3p,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""11 a.m."",
+        ""Closing_Hour"": ""3 p.m."",
+        ""Week"": [
+            ""1"",
+            ""2""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""11 a.m."",
+        ""Closing_Hour"": ""3 p.m."",
+        ""Week"": [
+            ""1"",
+            ""2""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""11 a.m."",
+        ""Closing_Hour"": ""3 p.m."",
+        ""Week"": [
+            ""1"",
+            ""2""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""11 a.m."",
+        ""Closing_Hour"": ""3 p.m."",
+        ""Week"": [
+            ""1"",
+            ""2""
+        ]
+    }
+]",Pastors Pantry,M - Th: 11a - 3p
+41,Sa: 9a - 11a (1st Saturday of each month),"[
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:00 am"",
+        ""Week"": [
+            ""1""
+        ]
+    }
+]",First Pentecostal-Servant's Table,Sa: 9a - 11a (1st Saturday of each month)
+42,M - Th: 9a - 1p,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Fairgrove Family Resource,M - Th: 9a - 1p
+43,W: 8a - 12p (3rd Wednesday of each month),"[
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""08:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""3""
+        ]
+    }
+]",Services for the Deaf,W: 8a - 12p (3rd Wednesday of each month)
+44,M & W: 8:30a - 12p,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""08:30 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""08:30 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]","Upper Room Food Ministry, Inc.",M & W: 8:30a - 12p
+45,Sa: 7a - 10a (1st and 3rd Saturday of each month),"[
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""7 a.m."",
+        ""Closing_Hour"": ""10 a.m."",
+        ""Week"": [
+            ""1"",
+            ""3""
+        ]
+    }
+]",JCF Ministries Full Gospel Church,Sa: 7a - 10a (1st and 3rd Saturday of each month)
+46,Tu & Th: 3:30p - 5:30p,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""15:30 pm"",
+        ""Closing_Hour"": ""17:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""15:30 pm"",
+        ""Closing_Hour"": ""17:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2""
+        ]
+    }
+]",Least of These Ministries,Tu & Th: 3:30p - 5:30p
+47,Tu & Th: 6p - 7:30p; W: 10a - 11:45a,[],Greater Things Outreach,Tu & Th: 6p - 7:30p; W: 10a - 11:45a
+48,Sa: 9:30a - 12p,[],Loaves and Fishes Food Ministry,Sa: 9:30a - 12p
+49,"M, W & Th: 9a - 12p; Tu: 1p - 3p","[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""01:00 pm"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",A Storehouse for Jesus,"M, W & Th: 9a - 12p; Tu: 1p - 3p"
+50,Tu: 2:30p - 4:30p (1st & 3rd Tuesday of each month); Sa: 2:30p - 4:30p (1st and 3rd Saturday of each month); Sa: 1p - 2p (2nd and 4th Saturday of each month),"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""02:30 pm"",
+        ""Closing_Hour"": ""04:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""3""
+        ]
+    },
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""02:30 pm"",
+        ""Closing_Hour"": ""04:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""3""
+        ]
+    },
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""01:00 pm"",
+        ""Closing_Hour"": ""02:00 pm"",
+        ""Week"": [
+            ""2"",
+            ""4""
+        ]
+    }
+]",Ascension Food Pantry,Tu: 2:30p - 4:30p (1st & 3rd Tuesday of each month); Sa: 2:30p - 4:30p (1st and 3rd Saturday of each month); Sa: 1p - 2p (2nd and 4th Saturday of each month)
+51,Sa: 10a - 11:30a (2nd Saturday of each month); Sa: 3p - 4:30p (4th Saturday of each month),"[
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""11:30 am"",
+        ""Week"": [
+            ""2""
+        ]
+    },
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""03:00 pm"",
+        ""Closing_Hour"": ""04:30 pm"",
+        ""Week"": [
+            ""4""
+        ]
+    }
+]",First Baptist Church - Cooleemee,Sa: 10a - 11:30a (2nd Saturday of each month); Sa: 3p - 4:30p (4th Saturday of each month)
+52,Sa: 12 - 3p (1st & 3rd Saturday of each month),"[
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""3""
+        ]
+    }
+]",Army of Hope,Sa: 12 - 3p (1st & 3rd Saturday of each month)
+53,T: 9:00-11:00; F 1:00-2:30,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""unknown"",
+        ""Closing_Hour"": ""unknown"",
+        ""Week"": [
+            ""1""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:00 am"",
+        ""Week"": [
+            ""1""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""unknown"",
+        ""Closing_Hour"": ""unknown"",
+        ""Week"": [
+            ""2""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""unknown"",
+        ""Closing_Hour"": ""unknown"",
+        ""Week"": [
+            ""3""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""01:00 pm"",
+        ""Closing_Hour"": ""02:30 pm"",
+        ""Week"": [
+            ""4""
+        ]
+    }
+]",Winston-Salem Rescue Mission,T: 9:00-11:00; F 1:00-2:30
+54,"M-F 9:00-12:00, 1:00-4:00","[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Crisis Control Ministry,"M-F 9:00-12:00, 1:00-4:00"
+55,M - Th: 9a - 11a & 1p - 3p; F: 9a - 11a,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:00 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:00 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:00 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:00 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:00 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Sunnyside Ministry,M - Th: 9a - 11a & 1p - 3p; F: 9a - 11a
+56,1st Monday of each month: 8a - 9a,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""08:00 am"",
+        ""Closing_Hour"": ""09:00 am"",
+        ""Week"": [
+            ""1""
+        ]
+    }
+]",Senior Services - Meals on Wheels,1st Monday of each month: 8a - 9a
+57,"M, T, Th: 12:00-1:20","[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:20 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:20 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:20 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",The Salvation Army-Kernersville,"M, T, Th: 12:00-1:20"
+58,Tu & Th: 9a - 12p; 1st and 3rd Saturday of each month: 9a - 12p,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""3""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""3""
+        ]
+    },
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3""
+        ]
+    }
+]",St Peter's World Outreach,Tu & Th: 9a - 12p; 1st and 3rd Saturday of each month: 9a - 12p
+59,Th 9:00-11:00 Call ahead for appointment,"[
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:00 am"",
+        ""Week"": [
+            ""1""
+        ]
+    }
+]",Catholic Charities,Th 9:00-11:00 Call ahead for appointment
+60,3rd&4th Thursday of each month: 12p - 1p,"[
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""3"",
+            ""4""
+        ]
+    }
+]",Christ Rescue Temple,3rd&4th Thursday of each month: 12p - 1p
+61,4th Tuesday of each month: 11:00 - 3:00; 2nd & 3rd Th of each month: 1p - 3p,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""01:00 pm"",
+        ""Closing_Hour"": ""3p"",
+        ""Week"": [
+            ""2"",
+            ""3""
+        ]
+    }
+]",St. John CME Church,4th Tuesday of each month: 11:00 - 3:00; 2nd & 3rd Th of each month: 1p - 3p
+62,1st & 3rd Saturday of each month: 9:30a - 11:00a,"[
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""09:30 am"",
+        ""Closing_Hour"": ""11:00 am"",
+        ""Week"": [
+            ""1"",
+            ""3""
+        ]
+    }
+]",Holy Trinity,1st & 3rd Saturday of each month: 9:30a - 11:00a
+63,Wednesday: 1:00-3:00,"[
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""01:00 pm"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""1""
+        ]
+    }
+]",Iglesia Wesleyana el Buen Samaritano,Wednesday: 1:00-3:00
+64,2nd Tuesday of each month: 7:30p - 9p,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""07:30 pm"",
+        ""Closing_Hour"": ""09:00 pm"",
+        ""Week"": [
+            ""2""
+        ]
+    }
+]",Iglesia Nueva Vida,2nd Tuesday of each month: 7:30p - 9p
+65,Tu: 9a - 12:00a,[],The Shalom Project,Tu: 9a - 12:00a
+66,Tu & Th: 11a - 3p,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Piney Grove Baptist Church,Tu & Th: 11a - 3p
+67,M: 11a - 2p,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""02:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",New Jerusalem Baptist Church,M: 11a - 2p
+68,"M, F: 12 p - 3p",[],Love Community Development,"M, F: 12 p - 3p"
+69,Th; beginning at 8:00am. 1st & 3rd Sat 9:00-10:30,"[
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""10:30 am"",
+        ""Week"": [
+            ""1"",
+            ""3""
+        ]
+    }
+]",Whole Man Ministries,Th; beginning at 8:00am. 1st & 3rd Sat 9:00-10:30
+70,T & W Begins at 8:00am,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""08:00 am"",
+        ""Closing_Hour"": ""unknown"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""08:00 am"",
+        ""Closing_Hour"": ""unknown"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Ephesus Seventh Day Adventist,T & W Begins at 8:00am
+71,"Tu 9a - 10:50a & 1p - 3p, W 9a-10:50a","[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""10:50 am"",
+        ""Week"": [
+            ""1"",
+            ""2""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""10:50 am"",
+        ""Week"": [
+            ""1"",
+            ""2""
+        ]
+    }
+]",Maple Springs United Methodist Church,"Tu 9a - 10:50a & 1p - 3p, W 9a-10:50a"
+72,Tu: 10a - 11:30a,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""11:30 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Centenary United Methodist Church,Tu: 10a - 11:30a
+73,2nd & 4th Th of each month: 12p - 3p,"[
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""2"",
+            ""4""
+        ]
+    }
+]",St Stephen Missionary Baptist,2nd & 4th Th of each month: 12p - 3p
+74,Tu & Th: 9a - 12p; W: 4p - 6p,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""04:00 pm"",
+        ""Closing_Hour"": ""06:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]","Agape Care & Share, Inc.",Tu & Th: 9a - 12p; W: 4p - 6p
+75,1st & 3rd Th: 5:30p - 7:00p,"[
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""17:30 pm"",
+        ""Closing_Hour"": ""19:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""3""
+        ]
+    }
+]",Ardmore United Methodist Church,1st & 3rd Th: 5:30p - 7:00p
+76,3rd Saturday of each month: 11a - 1p,"[
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""3""
+        ]
+    }
+]",Mt. Moriah - Bread of Life,3rd Saturday of each month: 11a - 1p
+77,Tu: 4p - 6p; Th: 3:30p -7p; Sa: 9a - 11a,[],Clemmons Food Pantry,Tu: 4p - 6p; Th: 3:30p -7p; Sa: 9a - 11a
+78,Tu & Th: 10a - 11a,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""11:00 am"",
+        ""Week"": [
+            ""1"",
+            ""2""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""11:00 am"",
+        ""Week"": [
+            ""1"",
+            ""2""
+        ]
+    }
+]",Morris Chapel UMC,Tu & Th: 10a - 11a
+79,4th Saturday: 10a - 2p,"[
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""02:00 pm"",
+        ""Week"": [
+            ""4""
+        ]
+    }
+]",Central Triad Church,4th Saturday: 10a - 2p
+80,W: 10a - 1p,"[
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Positive Wellness Alliance,W: 10a - 1p
+81,1st & 3rd Thursday of each month: 10a - 12p,"[
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""3""
+        ]
+    }
+]",Beloved Community Food Pantry,1st & 3rd Thursday of each month: 10a - 12p
+82,M-F 9:00-3:00,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Neighborhoods Hands Inc,M-F 9:00-3:00
+83,T starts at 10:00; Th starts at 11:00,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""unknown"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""unknown"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Ministerio Fil 4 13,T starts at 10:00; Th starts at 11:00
+84,S 11a-12p wkly,"[
+    {
+        ""Day"": ""sunday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Hope Community Church,S 11a-12p wkly
+85,W: 5:00-6:30,"[
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""05:00 pm"",
+        ""Closing_Hour"": ""06:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",New Story Church,W: 5:00-6:30
+86,wkly Sa 9-11a; wkly W 9-11a & 6:30-8:30p,"[
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:00 am"",
+        ""Week"": [
+            ""1""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:00 am"",
+        ""Week"": [
+            ""1""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""06:30 pm"",
+        ""Closing_Hour"": ""08:30 pm"",
+        ""Week"": [
+            ""1""
+        ]
+    }
+]",Project RE3 Hope Center,wkly Sa 9-11a; wkly W 9-11a & 6:30-8:30p
+87,wkly Th: 11a-4p,"[
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",St James UMC Community Food Pantry,wkly Th: 11a-4p
+88,wkly Tues 11a - 1p,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1234""
+        ]
+    }
+]",Our Fathers House Ministries,wkly Tues 11a - 1p
+89,Sunday: 9:00-12:00,"[
+    {
+        ""Day"": ""sunday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Star of Bethlehem Lutheran Church,Sunday: 9:00-12:00
+90,Two Saturdays a month 10:00-12:00,"[
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""3""
+        ]
+    }
+]",Una Bendicion,Two Saturdays a month 10:00-12:00
+91,M - F: 12p - 4p,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Triad Adult Day Care,M - F: 12p - 4p
+92,M: 8a - 11:30a + 1p - 2:30p; W: 8a - 11:30a + 1p - 2:30p; F: 8a - 11:30a + 1p - 2:30p,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""08:00 am"",
+        ""Closing_Hour"": ""11:30 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""08:00 am"",
+        ""Closing_Hour"": ""11:30 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""08:00 am"",
+        ""Closing_Hour"": ""11:30 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",The Salvation Army,M: 8a - 11:30a + 1p - 2:30p; W: 8a - 11:30a + 1p - 2:30p; F: 8a - 11:30a + 1p - 2:30p
+93,Sa: 10a - 12p on varying weeks; call agency for schedule,"[
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1""
+        ]
+    },
+    {
+        ""Day"": ""sunday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""2""
+        ]
+    },
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""3""
+        ]
+    }
+]",Cathedral of His Glory,Sa: 10a - 12p on varying weeks; call agency for schedule
+94,M - F: 9:30a - 3:30p,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""09:30 am"",
+        ""Closing_Hour"": ""03:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""09:30 am"",
+        ""Closing_Hour"": ""03:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""09:30 am"",
+        ""Closing_Hour"": ""03:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""09:30 am"",
+        ""Closing_Hour"": ""03:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""09:30 am"",
+        ""Closing_Hour"": ""03:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Greensboro Urban Ministry,M - F: 9:30a - 3:30p
+95,M - F: 11a - 2p,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""02:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""02:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""02:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""02:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""02:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Open Door Ministries - Pantry,M - F: 11a - 2p
+96,M - F 10a - 4p,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Solid Rock Baptist Church,M - F 10a - 4p
+97,W: 7p - 9p; Su: 12p - 3p,"[
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""07:00 pm"",
+        ""Closing_Hour"": ""09:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""sunday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Stokesdale Church of God,W: 7p - 9p; Su: 12p - 3p
+98,Tu: 9a - 12p; Th 9a - 12p,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1""
+        ]
+    }
+]",The Salvation Army - Center of Hope,Tu: 9a - 12p; Th 9a - 12p
+99,Tu : 10a - 12p; W: 10a - 12p; Th: 10a - 12p,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Cedar Grove Tabernacle of Praise,Tu : 10a - 12p; W: 10a - 12p; Th: 10a - 12p
+100,Tu: 9a - 11a; Th: 9a - 11a,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:00 am"",
+        ""Week"": [
+            ""1""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:00 am"",
+        ""Week"": [
+            ""1""
+        ]
+    }
+]",St Paul Baptist Church,Tu: 9a - 11a; Th: 9a - 11a
+101,1st & 3rd Sa: 9a - 12p,"[
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""3""
+        ]
+    }
+]",The Redeemed Christian Church,1st & 3rd Sa: 9a - 12p
+102,Tu: 11a - 3p; Th: 11a - 3p,[],Piedmont Health Services & Sickle Cell Agency,Tu: 11a - 3p; Th: 11a - 3p
+103,by appointment M - F 10a - 4p,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",New Beginnings Full Gospel Ministries,by appointment M - F 10a - 4p
+104,W: 3p - 5p,"[
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""03:00 pm"",
+        ""Closing_Hour"": ""05:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",West End Ministries - Pantry,W: 3p - 5p
+105,Sa: 1p - 3p; Su: 2p - 4p,"[
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""01:00 pm"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""1""
+        ]
+    },
+    {
+        ""Day"": ""sunday"",
+        ""Opening_Hour"": ""02:00 pm"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1""
+        ]
+    }
+]",A Gift of Giving,Sa: 1p - 3p; Su: 2p - 4p
+106,3rd Sa: 5p - 6p,"[
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""05:00 pm"",
+        ""Closing_Hour"": ""06:00 pm"",
+        ""Week"": [
+            ""3""
+        ]
+    }
+]",Kingdom Building Church International,3rd Sa: 5p - 6p
+107,Sa: 12p - 1p,[],High Point Christian Center,Sa: 12p - 1p
+108,W: 9a - 12p; Th: 5:30p - 7p,"[
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""05:30 pm"",
+        ""Closing_Hour"": ""07:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Ward Street Community Resource Center,W: 9a - 12p; Th: 5:30p - 7p
+109,Tu - Th: 9a -11a and 1p - 4p,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:00 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:00 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:00 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""01:00 pm"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""01:00 pm"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""01:00 pm"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Helping Hands,Tu - Th: 9a -11a and 1p - 4p
+110,3rd Sa: 9a - 10a,"[
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""10:00 am"",
+        ""Week"": [
+            ""3""
+        ]
+    }
+]",Julian United Methodist Church,3rd Sa: 9a - 10a
+111,1st & 3rd Tu: 10a - 1p; 3rd Sa: 10a - 12p,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""3""
+        ]
+    },
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""3""
+        ]
+    }
+]",Celia Phelps Memorial UMC,1st & 3rd Tu: 10a - 1p; 3rd Sa: 10a - 12p
+112,M: 9:30a - 2:30p; Tu: 9:30a - 2:30p; W: 9:30a - 2:30p; Th: 9:30a - 2:30p,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""09:30 am"",
+        ""Closing_Hour"": ""02:30 pm"",
+        ""Week"": [
+            ""1""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""09:30 am"",
+        ""Closing_Hour"": ""02:30 pm"",
+        ""Week"": [
+            ""1""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""09:30 am"",
+        ""Closing_Hour"": ""02:30 pm"",
+        ""Week"": [
+            ""1""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""09:30 am"",
+        ""Closing_Hour"": ""02:30 pm"",
+        ""Week"": [
+            ""1""
+        ]
+    }
+]",One Step Further,M: 9:30a - 2:30p; Tu: 9:30a - 2:30p; W: 9:30a - 2:30p; Th: 9:30a - 2:30p
+113,2nd & 3rd F: 11a - 3p,"[
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""2"",
+            ""3""
+        ]
+    }
+]",One Step Further,2nd & 3rd F: 11a - 3p
+114,F: 11a - 2p,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""12:45 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""12:45 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""12:45 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""12:45 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""3""
+        ]
+    },
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""12:45 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""sunday"",
+        ""Opening_Hour"": ""12:30 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",One Step Further,F: 11a - 2p
+115,2nd & 4th Th: 1p - 2:30p,"[
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""01:00 pm"",
+        ""Closing_Hour"": ""02:30 pm"",
+        ""Week"": [
+            ""2"",
+            ""4""
+        ]
+    }
+]",Genesis Baptist Church Food Pantry,2nd & 4th Th: 1p - 2:30p
+116,T: 12:p -2p,[],New Zion Missionary Baptist Church,T: 12:p -2p
+117,3rd Sat of month: 11a-1p,"[
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""3""
+        ]
+    }
+]",Free Indeed Food Pantry,3rd Sat of month: 11a-1p
+118,4th Sa: 9a - 11a,"[
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:00 am"",
+        ""Week"": [
+            ""4""
+        ]
+    }
+]",Lebanon Baptist Church Pantry,4th Sa: 9a - 11a
+119,M - F: 9a - 5p,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""05:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""05:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""05:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""05:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""05:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Divine Intervention - Care Link,M - F: 9a - 5p
+120,3rd Th: 9a - 12p; 3rd Th: 4p - 7p,"[
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""3""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""04:00 pm"",
+        ""Closing_Hour"": ""07:00 pm"",
+        ""Week"": [
+            ""3""
+        ]
+    }
+]",Locust Grove,3rd Th: 9a - 12p; 3rd Th: 4p - 7p
+121,3rd Tu: 5p - 7p; 3rd Sa: 9a - 1p,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""05:00 pm"",
+        ""Closing_Hour"": ""07:00 pm"",
+        ""Week"": [
+            ""3""
+        ]
+    },
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""3""
+        ]
+    }
+]",Wells Memorial - We Care Pantry,3rd Tu: 5p - 7p; 3rd Sa: 9a - 1p
+122,2nd M 5:30p - 7:30p; each W 9:30a - 11:30a,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""05:30 pm"",
+        ""Closing_Hour"": ""07:30 pm"",
+        ""Week"": [
+            ""2""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""09:30 am"",
+        ""Closing_Hour"": ""11:30 am"",
+        ""Week"": [
+            """"
+        ]
+    }
+]",Lutheran Church of Our Father,2nd M 5:30p - 7:30p; each W 9:30a - 11:30a
+123,1st & 3rd Saturday of each month: 9a - 12p,"[
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""3""
+        ]
+    }
+]",Emerywood Baptist Church,1st & 3rd Saturday of each month: 9a - 12p
+124,Tues 11a-1p call for appointment preferred,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Manna House of Coliseum Blvd,Tues 11a-1p call for appointment preferred
+125,M & W 6:30p - 8:30p Pop up on Th 11a - 12:30p at different locations (call),"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""06:30 pm"",
+        ""Closing_Hour"": ""08:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""06:30 pm"",
+        ""Closing_Hour"": ""08:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Positive Direction for Youth & Families,M & W 6:30p - 8:30p Pop up on Th 11a - 12:30p at different locations (call)
+126,Thursdays 11a - 12p (please call for location),"[
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",MBL-PD&Y,Thursdays 11a - 12p (please call for location)
+127,weekly on W 9a-10:30a,"[
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""10:30 am"",
+        ""Week"": [
+            ""1""
+        ]
+    }
+]",Gate City Vineyard Christian Fellowship / Gate City Grocery GiveAway,weekly on W 9a-10:30a
+128,4th Saturday: 10a - 12p,"[
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""4""
+        ]
+    }
+]",True Salvation Outreach Ministry,4th Saturday: 10a - 12p
+129,yet to be determined - will update Juy 2021,[],A Shared Blessing Food Pantry - First UMC - HPT,yet to be determined - will update Juy 2021
+130,3rd Wed 3p-4p; Seniors & Disabled 3rd Tuesday 11a-12:30p,"[
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""03:00 pm"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:30 pm"",
+        ""Week"": [
+            ""1""
+        ]
+    }
+]",Triad Food Pantry,3rd Wed 3p-4p; Seniors & Disabled 3rd Tuesday 11a-12:30p
+131,M-F 8:30am-5:00pm (by appt),"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""08:30 am"",
+        ""Closing_Hour"": ""05:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""08:30 am"",
+        ""Closing_Hour"": ""05:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""08:30 am"",
+        ""Closing_Hour"": ""05:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""08:30 am"",
+        ""Closing_Hour"": ""05:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""08:30 am"",
+        ""Closing_Hour"": ""05:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",HTH-Cone Health-Infectious Disease,M-F 8:30am-5:00pm (by appt)
+132,2nd & 4th Saturday 11am-1pm,"[
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""2"",
+            ""4""
+        ]
+    }
+]",180 turn Ch.- Jean & Dean Food Pantry,2nd & 4th Saturday 11am-1pm
+133,Fridays 11am-2pm,[],We Are One Christian Fellowship,Fridays 11am-2pm
+134,3rd Thursday 2:30-3:30,"[
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""14:30 pm"",
+        ""Closing_Hour"": ""15:00 pm"",
+        ""Week"": [
+            ""3""
+        ]
+    }
+]",Safer Cities,3rd Thursday 2:30-3:30
+135,Thursdays 10am-12:30pm,"[
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""12:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Jewish Family Services,Thursdays 10am-12:30pm
+136,2nd & 4th Sat of month 10a-2p,"[
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""02:00 pm"",
+        ""Week"": [
+            ""2"",
+            ""4""
+        ]
+    }
+]",Grace Point Pantry,2nd & 4th Sat of month 10a-2p
+137,M - Th: 9a - 3:30p,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""03:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""03:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""03:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""03:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",The Salvation Army - Statesville,M - Th: 9a - 3:30p
+138,Tu & W: 11:30a - 2:30p; Th: 2:30p - 4p; F: 9:30a - 12:30p,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""11:30 am"",
+        ""Closing_Hour"": ""02:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""11:30 am"",
+        ""Closing_Hour"": ""02:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""02:30 pm"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""09:30 am"",
+        ""Closing_Hour"": ""12:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Yokefellow Ministry of Statesville,Tu & W: 11:30a - 2:30p; Th: 2:30p - 4p; F: 9:30a - 12:30p
+139,Tu: 10:30a - 12:30p (1st and 3rd Tuesday of each month),"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""10:30 am"",
+        ""Closing_Hour"": ""12:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""3""
+        ]
+    }
+]",Landmark Relief,Tu: 10:30a - 12:30p (1st and 3rd Tuesday of each month)
+140,Tu & F: 11a - 12:30p,[],First Church of Nazarene,Tu & F: 11a - 12:30p
+141,M - W: 9:30a - 12p; Th: 1p - 3:30p,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""09:30 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""09:30 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Iredell Christian Ministries,M - W: 9:30a - 12p; Th: 1p - 3:30p
+142,"M, F & Sa: 9a - 12p","[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Matthew 25 Ministries,"M, F & Sa: 9a - 12p"
+143,Th: 4p - 6:30p (2nd and 4th Thursday of each month),"[
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""04:00 pm"",
+        ""Closing_Hour"": ""06:30 pm"",
+        ""Week"": [
+            ""2"",
+            ""4""
+        ]
+    }
+]",Union Grove UMC,Th: 4p - 6:30p (2nd and 4th Thursday of each month)
+144,W: 5-7p,"[
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""2"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""08:00 am"",
+        ""Closing_Hour"": ""11:00 am"",
+        ""Week"": [
+            ""3""
+        ]
+    }
+]",Ministerio de Compasion,W: 5-7p
+145,M: 10a - 3p; Tu: 10a - 3p; 10a - 3p; Th: 12p-6p; F: emergencies only,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""06:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": []
+    }
+]",Christians United Outreach Center,M: 10a - 3p; Tu: 10a - 3p; 10a - 3p; Th: 12p-6p; F: emergencies only
+146,"M - F: 9a - 11a, 1p - 3p","[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:00 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:00 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:00 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:00 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:00 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",The Salvation Army - Asheboro,"M - F: 9a - 11a, 1p - 3p"
+147,3rd Wednesday of each month: 5p - 6:30p,"[
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""05:00 pm"",
+        ""Closing_Hour"": ""06:30 pm"",
+        ""Week"": [
+            ""3""
+        ]
+    }
+]",First Assembly - Caring Place,3rd Wednesday of each month: 5p - 6:30p
+148,3rd Saturday of each month: 10a - 12p,"[
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1""
+        ]
+    },
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""2""
+        ]
+    },
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""3""
+        ]
+    },
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""4""
+        ]
+    }
+]",Beulah Baptist Church,3rd Saturday of each month: 10a - 12p
+149,M & Th: 2p - 5p,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""12:45 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""12:45 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""12:45 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""12:45 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""3""
+        ]
+    },
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""12:45 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""sunday"",
+        ""Opening_Hour"": ""12:30 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Liberty Association of Churches,M & Th: 2p - 5p
+150,"M, W, Th, F: 9a - 12p","[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",The Salvation Army - Reidsville,"M, W, Th, F: 9a - 12p"
+151,M - F: 12:30p - 2:30p,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""12:30 pm"",
+        ""Closing_Hour"": ""02:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""12:30 pm"",
+        ""Closing_Hour"": ""02:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""12:30 pm"",
+        ""Closing_Hour"": ""02:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""12:30 pm"",
+        ""Closing_Hour"": ""02:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""12:30 pm"",
+        ""Closing_Hour"": ""02:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",The Salvation Army - Eden,M - F: 12:30p - 2:30p
+152,2nd & 4th Tu: 10a - 1p,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""2"",
+            ""4""
+        ]
+    }
+]","Men In Christ, Inc.",2nd & 4th Tu: 10a - 1p
+153,T - F: 9a - 12p,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Rockingham Hope,T - F: 9a - 12p
+154,Th: 9a - 12p (bi-weekly),"[
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2""
+        ]
+    }
+]",Reidsville Outreach Center,Th: 9a - 12p (bi-weekly)
+155,W: 9a - 12p,"[
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Vandalia Presbyterian Church,W: 9a - 12p
+156,W: 9a - 12p,"[
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",In His Name Christian Services,W: 9a - 12p
+157,W: 9a - 12p,"[
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Blowing Rock Cares Food Pantry,W: 9a - 12p
+158,Last Saturday of each month: 10a - 12p,"[
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            """"
+        ]
+    }
+]","LOT 2540, Inc.",Last Saturday of each month: 10a - 12p
+159,F: 11a - 1p,"[
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",God's Helping Hands Pantry,F: 11a - 1p
+160,3rd Saturday of month 9a - 11a,"[
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:00 am"",
+        ""Week"": [
+            ""3""
+        ]
+    }
+]",Draper PHC - Hope Outreach Ctr,3rd Saturday of month 9a - 11a
+161,Th: 4p-5p and emergencies as needed,"[
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""04:00 pm"",
+        ""Closing_Hour"": ""05:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""04:00 pm"",
+        ""Closing_Hour"": ""05:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",CORMII CDC,Th: 4p-5p and emergencies as needed
+162,M - F: 9a - 11:30a,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:30 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:30 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:30 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:30 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:30 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",King Outreach Ministry,M - F: 9a - 11:30a
+163,M - F: 9a - 11:30a,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:30 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:30 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:30 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:30 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:30 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",East Stokes Outreach Ministry,M - F: 9a - 11:30a
+164,M - F: 9a - 11:30a,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""9 a.m."",
+        ""Closing_Hour"": ""11:30 a.m."",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""9 a.m."",
+        ""Closing_Hour"": ""11:30 a.m."",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""9 a.m."",
+        ""Closing_Hour"": ""11:30 a.m."",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""9 a.m."",
+        ""Closing_Hour"": ""11:30 a.m."",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""9 a.m."",
+        ""Closing_Hour"": ""11:30 a.m."",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",King Outreach Ministry,M - F: 9a - 11:30a
+165,M - F: 9a - 11:30a,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""9 a.m."",
+        ""Closing_Hour"": ""11:30 a.m."",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""9 a.m."",
+        ""Closing_Hour"": ""11:30 a.m."",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""9 a.m."",
+        ""Closing_Hour"": ""11:30 a.m."",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""9 a.m."",
+        ""Closing_Hour"": ""11:30 a.m."",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""9 a.m."",
+        ""Closing_Hour"": ""11:30 a.m."",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",East Stokes Outreach Ministry,M - F: 9a - 11:30a
+166,Th: 5p - 7p (3rd Thursday of each month),"[
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""05:00 pm"",
+        ""Closing_Hour"": ""07:00 pm"",
+        ""Week"": [
+            ""3""
+        ]
+    }
+]",The Rock Church,Th: 5p - 7p (3rd Thursday of each month)
+167,M: 9a - 5p (2nd and 4th Monday of each month),"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""05:00 pm"",
+        ""Week"": [
+            ""2"",
+            ""4""
+        ]
+    }
+]",Francisco Presbyterian Church,M: 9a - 5p (2nd and 4th Monday of each month)
+168,M - F: 9a - 11:15a,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:15 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:15 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:15 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:15 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:15 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Yokefellow Ministry of Mt Airy,M - F: 9a - 11:15a
+169,Th: 8:30a - 9:30a,"[
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""08:30 am"",
+        ""Closing_Hour"": ""09:30 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Trinity Episcopal Church,Th: 8:30a - 9:30a
+170,M: 1p - 4p; W & F: 9a - 12p,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""01:00 pm"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Tri-County Christian Crisis Ministry,M: 1p - 4p; W & F: 9a - 12p
+171,M - Th: 9a - 4p; F: 9a - 12p (Appt.),"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3""
+        ]
+    }
+]",The Salvation Army - Mt Airy,M - Th: 9a - 4p; F: 9a - 12p (Appt.)
+172,M: 6p - 7p; Tu & Th: 9a - 12:15p,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""06:00 pm"",
+        ""Closing_Hour"": ""07:00 pm"",
+        ""Week"": [
+            ""1""
+        ]
+    }
+]",Foothills Food Pantry,M: 6p - 7p; Tu & Th: 9a - 12:15p
+173,Tu - Th: 9a - 12p,[],SEAMS - Pilot Mountain Outreach,Tu - Th: 9a - 12p
+174,M - F: 9a - 3p,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Helping Hands Foundation of Surry,M - F: 9a - 3p
+175,M - F: 8:30a - 4:30p,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""08:30 am"",
+        ""Closing_Hour"": ""04:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""08:30 am"",
+        ""Closing_Hour"": ""04:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""08:30 am"",
+        ""Closing_Hour"": ""04:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""08:30 am"",
+        ""Closing_Hour"": ""04:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""08:30 am"",
+        ""Closing_Hour"": ""04:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",The Hunger & Health Coalition,M - F: 8:30a - 4:30p
+176,Th: 4p -6p (Every other Thursday),"[
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""04:00 pm"",
+        ""Closing_Hour"": ""06:00 pm"",
+        ""Week"": [
+            ""1""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""04:00 pm"",
+        ""Closing_Hour"": ""06:00 pm"",
+        ""Week"": [
+            ""3""
+        ]
+    }
+]",The Hunger & Health Coalition - Western Watauga,Th: 4p -6p (Every other Thursday)
+177,M - F: 9a - 11a; M - F: 1p - 4p,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:00 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:00 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:00 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:00 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:00 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""01:00 pm"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""01:00 pm"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""01:00 pm"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""01:00 pm"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""01:00 pm"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Hospitality House,M - F: 9a - 11a; M - F: 1p - 4p
+178,M: 3p - 6p,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""03:00 pm"",
+        ""Closing_Hour"": ""06:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",First Baptist Church - Boone,M: 3p - 6p
+179,Th: 10a - 2:30p,"[
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""02:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Greenway Baptist Church,Th: 10a - 2:30p
+180,W & Th: 10a - 3p,"[
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2""
+        ]
+    }
+]",Casting Bread Food Market,W & Th: 10a - 3p
+181,M - F: 8:30a-4:00p,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""08:30 am"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""08:30 am"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""08:30 am"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""08:30 am"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""08:30 am"",
+        ""Closing_Hour"": ""04:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",BROC: Wilkes Community Action,M - F: 8:30a-4:00p
+182,"M, Tu & Th: 9a - 1p","[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Brushy Mtn Baptist - Wilkes Min of Hope,"M, Tu & Th: 9a - 1p"
+183,Sa: 8a - 11a (3rd Saturday of each month);,"[
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""08:00 am"",
+        ""Closing_Hour"": ""11:00 am"",
+        ""Week"": [
+            ""3""
+        ]
+    }
+]",Antioch Baptist Church,Sa: 8a - 11a (3rd Saturday of each month);
+184,9a - 11a (4th Saturday of the month),"[
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""10:59 am"",
+        ""Week"": [
+            ""4""
+        ]
+    }
+]",MBL- Antioch Baptist Church,9a - 11a (4th Saturday of the month)
+185,Sa: 9a - 12p (3rd Saturday of each month),"[
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""3""
+        ]
+    }
+]",Mountain View Baptist Food Pantry,Sa: 9a - 12p (3rd Saturday of each month)
+186,Sa: 9a - 12p (3rd Saturday of each month),"[
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""3""
+        ]
+    }
+]",Pilgrim Baptist Church - Outreach Center,Sa: 9a - 12p (3rd Saturday of each month)
+187,Tu: 4p - 6p (3rd Tuesday of each month),"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""04:00 pm"",
+        ""Closing_Hour"": ""06:00 pm"",
+        ""Week"": [
+            ""3""
+        ]
+    }
+]",Maple Springs United Methodist Church,Tu: 4p - 6p (3rd Tuesday of each month)
+188,"M, W & F: 9a - 12:30p","[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12.00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12.30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""12.00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Samaritan Kitchen of Wilkes,"M, W & F: 9a - 12:30p"
+189,1st & 3rd Saturday monthly 9:30a - 11:30a,"[
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""09:30 am"",
+        ""Closing_Hour"": ""11:30 am"",
+        ""Week"": [
+            ""1"",
+            ""3""
+        ]
+    }
+]",New Damascus Baptist Church,1st & 3rd Saturday monthly 9:30a - 11:30a
+190,M: 4:30p - 6:45p; Tu - F: 9a - 11:45a,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""04:30 pm"",
+        ""Closing_Hour"": ""06:45 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:45 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:45 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:45 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""09:00 am"",
+        ""Closing_Hour"": ""11:45 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Yadkin Christian Ministries,M: 4:30p - 6:45p; Tu - F: 9a - 11:45a
+191,Tu: 5:30p - 7:30p; Th - 10a - 12p; Sa: 10a - 12p,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""05:30 pm"",
+        ""Closing_Hour"": ""07:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""10:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Yadkin Christian Ministries - East Bend,Tu: 5:30p - 7:30p; Th - 10a - 12p; Sa: 10a - 12p
+192,Tu & Th: 6p - 8p; Su: 6 - 8p,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""18:00 pm"",
+        ""Closing_Hour"": ""20:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""18:00 pm"",
+        ""Closing_Hour"": ""20:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2""
+        ]
+    },
+    {
+        ""Day"": ""sunday"",
+        ""Opening_Hour"": ""18:00 pm"",
+        ""Closing_Hour"": ""20:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2""
+        ]
+    }
+]",Divino Redentor Catholic Church,Tu & Th: 6p - 8p; Su: 6 - 8p
